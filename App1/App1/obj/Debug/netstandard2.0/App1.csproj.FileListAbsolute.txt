@@ -1,0 +1,15 @@
+c:\users\serghei\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+c:\users\serghei\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+c:\users\serghei\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+c:\users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojResolveAssemblyReference.cache
+c:\users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+c:\users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.App.xaml.g.cs
+c:\users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.MainPage.xaml.g.cs
+c:\users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+c:\users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+c:\users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+c:\users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.Detail.xaml.g.cs
+C:\Users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.Master.xaml.g.cs
+C:\Users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.xPagePrognozi.xaml.g.cs
+C:\Users\serghei\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.xPageTables.xaml.g.cs
